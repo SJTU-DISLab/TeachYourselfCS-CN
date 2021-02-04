@@ -11,3 +11,9 @@ A Chinese translation of [TeachYourselfCS](https://teachyourselfcs.com/).
 *   [原网页 Original](https://teachyourselfcs.com/)
 *   [中文翻译 Chinese](TeachYourselfCS-CN.md)
 *   [英文原版 English](TeachYourselfCS.md)
+
+When you get stuck, remember: Read-Search-Ask.
+
+*   Read the documentation or error
+*   Search Google
+*   Ask your friends for help
